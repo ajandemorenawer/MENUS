@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="p1b1"></string>
+    <string name="p1b2"></string>
+    <string name="p1b3"></string>
+    <string name="p1b4"></string>
+    <string name="p1tv">Primeros platos</string>
+    <string name="boton_aceptar">Aceptar</string>
+    <string name="p2tv">Totales</string>
+    <string name="p2et1">Kcal totales</string>
+    <string name="p2et2">Total €</string>
+    <string name="p2et3"></string>
+    <string name="p2et4"></string>
+</resources>
